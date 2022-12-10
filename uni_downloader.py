@@ -10,6 +10,9 @@ you have to scoll until all videos are loaded.
 
 The defaults will work, if the script and the html file
 called 'data.html' are in the current working directory.
+
+This script needs yt-dlp to work correctly:
+    https://github.com/yt-dlp/yt-dlp
 """
 
 import subprocess
